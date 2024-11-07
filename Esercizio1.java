@@ -3,6 +3,8 @@
  * Matricola: 0001071067
  * 
  * gabriele.napoletano@studio.unibo.it
+ * 
+ * Usa: parole.txt occorrenze.txt
  */
 
 import java.io.FileReader;
