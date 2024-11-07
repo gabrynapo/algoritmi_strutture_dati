@@ -3,6 +3,8 @@
  * Matricola: 0001071067
  * 
  * gabriele.napoletano@studio.unibo.it
+ *
+ * Usa: grafo.txt
  */
 
 import java.io.*;
